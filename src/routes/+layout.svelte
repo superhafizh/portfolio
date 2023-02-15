@@ -4,7 +4,7 @@
 
 <div class="navbar bg-base-100">
     <div class="navbar-start">
-        <a href="/" class="btn btn-ghost normal-case text-xl font-serif">Superhafizh</a>
+        <a href="/" class="btn btn-ghost normal-case text-xl font-serif text-warning">Superhafizh</a>
     </div>
     <div class="navbar-center ">
     
