@@ -1,5 +1,4 @@
 <script lang="ts">
-    import { goto } from '$app/navigation'
     import HCaptcha from 'svelte-hcaptcha'
     import {ZodError, z} from 'zod'
 	import Hero from '../components/hero.svelte';
